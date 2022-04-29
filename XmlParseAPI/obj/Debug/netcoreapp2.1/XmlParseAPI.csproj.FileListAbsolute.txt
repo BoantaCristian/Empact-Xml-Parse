@@ -1,0 +1,16 @@
+D:\OOP\XmlParseAPI\XmlParseAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\OOP\XmlParseAPI\XmlParseAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\OOP\XmlParseAPI\XmlParseAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\OOP\XmlParseAPI\XmlParseAPI\bin\Debug\netcoreapp2.1\XmlParseAPI.deps.json
+D:\OOP\XmlParseAPI\XmlParseAPI\bin\Debug\netcoreapp2.1\XmlParseAPI.runtimeconfig.json
+D:\OOP\XmlParseAPI\XmlParseAPI\bin\Debug\netcoreapp2.1\XmlParseAPI.runtimeconfig.dev.json
+D:\OOP\XmlParseAPI\XmlParseAPI\bin\Debug\netcoreapp2.1\XmlParseAPI.dll
+D:\OOP\XmlParseAPI\XmlParseAPI\obj\Debug\netcoreapp2.1\XmlParseAPI.csprojAssemblyReference.cache
+D:\OOP\XmlParseAPI\XmlParseAPI\obj\Debug\netcoreapp2.1\XmlParseAPI.RazorAssemblyInfo.cache
+D:\OOP\XmlParseAPI\XmlParseAPI\obj\Debug\netcoreapp2.1\XmlParseAPI.RazorAssemblyInfo.cs
+D:\OOP\XmlParseAPI\XmlParseAPI\obj\Debug\netcoreapp2.1\XmlParseAPI.AssemblyInfoInputs.cache
+D:\OOP\XmlParseAPI\XmlParseAPI\obj\Debug\netcoreapp2.1\XmlParseAPI.AssemblyInfo.cs
+D:\OOP\XmlParseAPI\XmlParseAPI\obj\Debug\netcoreapp2.1\XmlParseAPI.RazorTargetAssemblyInfo.cache
+D:\OOP\XmlParseAPI\XmlParseAPI\bin\Debug\netcoreapp2.1\XmlParseAPI.pdb
+D:\OOP\XmlParseAPI\XmlParseAPI\obj\Debug\netcoreapp2.1\XmlParseAPI.dll
+D:\OOP\XmlParseAPI\XmlParseAPI\obj\Debug\netcoreapp2.1\XmlParseAPI.pdb
